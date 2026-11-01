@@ -1,0 +1,11 @@
+base_skill,base_median,add_skill,pair_median,diff
+golang,200000.0,redis,275000.0,75000.0
+golang,200000.0,postgresql,232375.0,32375.0
+golang,200000.0,ооп,225000.0,25000.0
+golang,200000.0,sql,225000.0,25000.0
+golang,200000.0,git,225000.0,25000.0
+golang,200000.0,docker,225000.0,25000.0
+golang,200000.0,rabbitmq,219875.0,19875.0
+golang,200000.0,kubernetes,200000.0,0.0
+golang,200000.0,go,130000.0,-70000.0
+golang,200000.0,mysql,102625.0,-97375.0
